@@ -1,5 +1,7 @@
-jqueryÊµÏÖµ¼º½À¸×é¼ş¡£
-Ö»Ğè²ÉÓÃÒÔÏÂÀàËÆ½á¹¹£¬ÊäÈë$nav¼´¿É
+flex-add
+https://fourday11.github.io/webStudy/index.html
+jqueryå®ç°å¯¼èˆªæ ç»„ä»¶ã€‚
+åªéœ€é‡‡ç”¨ä»¥ä¸‹ç±»ä¼¼ç»“æ„ï¼Œè¾“å…¥$navå³å¯
 <div id="container">
   <div id ="nav">
     <ul>
