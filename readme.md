@@ -1,5 +1,5 @@
 flex-add
-https://fourday11.github.io/webStudy/index.html
+[demo](https://fourday11.github.io/webStudy/index.html)
 jquery实现导航栏组件。
 只需采用以下类似结构，输入$nav即可
 <div id="container">
